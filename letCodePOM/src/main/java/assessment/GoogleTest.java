@@ -4,7 +4,6 @@ import org.letcode.seleniumBase.Browser;
 import org.letcode.seleniumBase.Locators;
 import org.letcode.seleniumBase.SeleniumBase;
 import org.openqa.selenium.Keys;
-import org.openqa.selenium.WebElement;
 import org.testng.annotations.Test;
 
 public class GoogleTest extends SeleniumBase{

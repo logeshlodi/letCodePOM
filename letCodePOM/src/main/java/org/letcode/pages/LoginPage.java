@@ -2,9 +2,7 @@ package org.letcode.pages;
 
 import org.letcode.seleniumBase.LetCodeBase;
 import org.openqa.selenium.By;
-import org.openqa.selenium.WebElement;
 import org.openqa.selenium.remote.RemoteWebDriver;
-import org.openqa.selenium.support.ui.Select;
 
 public class LoginPage extends LetCodeBase{
 

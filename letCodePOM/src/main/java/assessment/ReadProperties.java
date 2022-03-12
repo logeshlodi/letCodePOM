@@ -5,8 +5,6 @@ import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.util.Properties;
 
-import org.openqa.selenium.By;
-import org.openqa.selenium.chrome.ChromeDriver;
 
 public class ReadProperties {
 	
